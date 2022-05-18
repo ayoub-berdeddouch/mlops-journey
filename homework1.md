@@ -15,7 +15,7 @@ Note that you need "For-Hire Vehicle Trip Records", not "High Volume For-Hire Ve
 Read the data for January. How many records are there?
 
 * 1054112
-* 1154112
+> * [X] 1154112  `response`
 * 1254112
 * 1354112
 
@@ -27,7 +27,7 @@ Now let's compute the `duration` variable. It should contain the duration of a r
 What's the average trip duration in January?
 
 * 15.16
-* 19.16
+> * [X] 19.16   `response`
 * 24.16
 * 29.16
 
