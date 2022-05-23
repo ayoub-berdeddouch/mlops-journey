@@ -50,7 +50,7 @@ What's the factions of missing values for the pickup location ID? (Or the fracti
 * 53%
 * 63%
 * 73%
-* 83%
+* [X] 83%   `response`
 
 ## Q4. One-hot encoding
 
@@ -65,7 +65,7 @@ What's the dimensionality of this matrix? (The number of columns)
 * 2
 * 152
 * 352
-* 525
+* [X] 525   `response`
 * 725
 
 ## Q5. Training a model
@@ -78,7 +78,7 @@ Now let's use the feature matrix from the previous step to train a model.
 What's the RMSE on train?
 
 * 5.52
-* 10.52
+* [X] 10.52   `response`
 * 15.52
 * 20.52
 
@@ -90,7 +90,7 @@ Now let's apply this model to the validation dataset (Feb 2021).
 What's the RMSE on validation?
 
 * 7.85
-* 12.85
+* [X] 12.85   `response`
 * 17.85
 * 22.85
 
