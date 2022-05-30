@@ -7,7 +7,8 @@
 ## Homeworks Progress:
 | Id | Module Session                                | Progress | Dead line    | Link               | 
 |----|-----------------------------------------------|----------|--------------|--------------------|
-|01  | Introduction to MLOPS               | ⏳ ✖️    | 23/05/2022   |   |
+|01  | Introduction to MLOPS               | ⌛ ✔️    | 23/05/2022   |   |
+|02  | Exepriment & Tracking               | ⌛ ✔️    | 30/05/2022   |   |
 
 
 
