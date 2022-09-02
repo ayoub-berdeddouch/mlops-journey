@@ -96,7 +96,9 @@
 |04  | Deployment                                    | ⌛ ✔️    | 27/06/2022   |   |
 |05  | Monitoring                                    | ⌛ ✔️    | Optional/07/2022     |   |
 |06  | Best Practices                                | ⌛ ✔️    | 01/08/2022   |   |
-|07  | Project                                       | ⏳ ✖️    | 22/08/2022   |   |
+|07  | Project first Cohort                                       | ⏳ ✖️    | 22/08/2022   |   |
+|07  | Project Second Cohort                                      | ⏳ ✖️    | 05/09/2022   |   |
+
 
 
 
